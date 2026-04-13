@@ -2,7 +2,7 @@
 
 void select(int *integer){
     int izin = integer[0];
-    double suhu = integer[1] * 0.1;
+    double suhu = integer[1];
     int radiasi = integer[2];
     int jam = integer[3];
 
